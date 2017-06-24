@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="gs-mysql-data:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gs_mysql_data_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gs-mysql-data/ejb/EJB" />
+      <element id="module-output" name="gs-mysql-data" />
+    </root>
+  </artifact>
+</component>
